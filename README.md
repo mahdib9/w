@@ -1,3 +1,6 @@
+# راهنمای نصب و اجرا
+
+```sh
 # Tested and will run without problem
 
 Import the https://github.com/telekingteam/DONTEDIT to your Github and edit(line 3 token|line 4 userid)
